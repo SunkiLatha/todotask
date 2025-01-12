@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "text": "hello",
+      "id": 1,
+      "completed": true
+    },
+    {
+      "text": "wake up",
+      "id": 2,
+      "completed": true
+    },
+    {
+      "text": "brush",
+      "completed": true,
+      "id": 3
+    },
+    {
+      "text": "brush",
+      "completed": false,
+      "id": 4
+    },
+    {
+      "text": "Have the breakfast",
+      "completed": false,
+      "id": 5
+    },
+    {
+      "text": "go to the class",
+      "completed": false,
+      "id": 6
+    }
+  ]
+}
